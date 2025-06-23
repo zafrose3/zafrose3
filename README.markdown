@@ -14,9 +14,7 @@
 
 ## Connect
 
-- LinkedIn
-- GitHub
-- Email
+- Reach out to me on: amrishazafreen.vercel.app
 
 ## Top Projects
 
@@ -25,9 +23,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafrose3&show_icons=true)## Achievements
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafrose3&show_icons=true)
 
-- Total Commits: \[Track via GitHub\]
-- Contributions to Open Source: Ongoing!
 
-📫 Feel free to reach out for collaborations or questions!
+📫See you back here soon!
