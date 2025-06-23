@@ -14,7 +14,7 @@
 
 ## Connect
 
-- Reach out to me on: amrishazafreen.vercel.app
+- Reach out to me on: [My website](https://amrishazafreen.vercel.app)
 
 ## Top Projects
 
