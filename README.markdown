@@ -15,6 +15,8 @@
 ## Connect
 
 - Reach out to me on: [My website](https://amrishazafreen.vercel.app)
+- Also check: [LinkedIn](https://www.linkedin.com/in/amrisha-zafreen-92403a283/)
+
 
 ## Top Projects
 
