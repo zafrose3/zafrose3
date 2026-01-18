@@ -17,6 +17,7 @@
 - Reach out to me on: [My website](https://amrishazafreen.vercel.app)
 - Also check: [LinkedIn](https://www.linkedin.com/in/amrisha-zafreen-92403a283/)
 
+
 ## 💻 Top Projects
 
 - Developed a dynamic e-commerce website with seamless product browsing, cart management, and checkout functionality.
@@ -24,25 +25,7 @@
 
 ## 📊 GitHub Insights
 
-<!-- GitHub Stats Cards Row 1 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zafrose3&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=f1fa8c&icon_color=bd93f9&include_all_commits=true&count_private=true&v=2026.1.18" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafrose3&theme=radical&hide_border=true&background=1a1b27&ring=ff79c6&fire=ff79c6&currStreakLabel=f1fa8c" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Stats Cards Row 2 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafrose3&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=f1fa8c&v=2026.1.18" alt="Most Used Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zafrose3&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="400" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafrose3&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff79c6&color=bd93f9&line=f1fa8c&point=ff79c6" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zafrose3&color=ff79c6&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafrose3&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=f1fa8c&icon_color=bd93f9&include_all_commits=true&count_private=true&v=2026.1.18)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafrose3&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=f1fa8c&v=2026.1.18)
 
 📫See you back here soon!
