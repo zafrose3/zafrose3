@@ -19,6 +19,15 @@
 
 ## 🧠 **Tech Stack**
 
+### **Core Skills**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-013243?style=for-the-badge&logo=array&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-008080?style=for-the-badge&logo=github&logoColor=white)
+![Chatbot Systems](https://img.shields.io/badge/Chatbot%20Systems-00BFFF?style=for-the-badge&logo=robotframework&logoColor=white)
+
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Data Science & ML**
+### **Libraries**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
