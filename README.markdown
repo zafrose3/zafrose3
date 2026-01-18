@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://amrishazafreen.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FFB6C1 ?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-FFB6C1?style=for-the-badge&logo=vercel&logoColor=black" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/amrisha-zafreen-92403a283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E2F0CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E2F0CB?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/zafrose3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-C7CEEA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-C7CEEA?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
 </p>
 
@@ -20,33 +20,33 @@
 ## 🧠 **Tech Stack**
 
 ### **Core Skills**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-013243?style=for-the-badge&logo=array&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-008080?style=for-the-badge&logo=github&logoColor=white)
-![Chatbot Systems](https://img.shields.io/badge/Chatbot%20Systems-00BFFF?style=for-the-badge&logo=robotframework&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9AA2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFB7B2?style=for-the-badge&logo=pandas&logoColor=black)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-FFDAC1?style=for-the-badge&logo=huggingface&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FFAFCC?style=for-the-badge&logo=openai&logoColor=black)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FFC8DD?style=for-the-badge&logo=array&logoColor=black)
+![Software Development](https://img.shields.io/badge/Software%20Development-FFE5D9?style=for-the-badge&logo=github&logoColor=black)
+![Chatbot Systems](https://img.shields.io/badge/Chatbot%20Systems-FEC89A?style=for-the-badge&logo=robotframework&logoColor=black)
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A2D2FF?style=for-the-badge&logo=python&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-BDE0FE?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-CDEDFD?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF2CC?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CDEDFD?style=for-the-badge&logo=postgresql&logoColor=black)
 
 ### **Libraries**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FF6F00?style=for-the-badge&logo=flask&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-FF6F00?style=for-the-badge&logo=neo4j&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-E8F4F1?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-D5F4E6?style=for-the-badge&logo=numpy&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FADBD8?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FDEDEC?style=for-the-badge&logo=tensorflow&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-EBDEF0?style=for-the-badge&logo=flask&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-D6EAF8?style=for-the-badge&logo=neo4j&logoColor=black)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FEF9E7?style=for-the-badge&logo=git&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-EAFAF1?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-FDEBD0?style=for-the-badge&logo=vercel&logoColor=black)
 
 ---
 
@@ -75,23 +75,23 @@
 ### **🤖 Intelligent Chatbot System**
 > Advanced NLP chatbot with sentiment analysis and context awareness
 >
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+> ![Python](https://img.shields.io/badge/Python-A2D2FF?style=flat-square&logo=python&logoColor=black)
+> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FDEDEC?style=flat-square&logo=tensorflow&logoColor=black)
+> ![NLP](https://img.shields.io/badge/NLP-FFDAC1?style=flat-square&logo=huggingface&logoColor=black)
 
 ### **🛍️ Dynamic E-Commerce Platform**
 > Full-featured online store with cart management and secure checkout
 >
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![HTML5](https://img.shields.io/badge/HTML5-BDE0FE?style=flat-square&logo=html5&logoColor=black)
+> ![CSS3](https://img.shields.io/badge/CSS3-CDEDFD?style=flat-square&logo=css3&logoColor=black)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-FFF2CC?style=flat-square&logo=javascript&logoColor=black)
 
 ### **📊 ML Age Prediction Model**
 > Machine learning model for age prediction with performance evaluation
 >
-> ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+> ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FADBD8?style=flat-square&logo=scikit-learn&logoColor=black)
+> ![Pandas](https://img.shields.io/badge/Pandas-E8F4F1?style=flat-square&logo=pandas&logoColor=black)
+> ![NumPy](https://img.shields.io/badge/NumPy-D5F4E6?style=flat-square&logo=numpy&logoColor=black)
 
 ---
 
@@ -104,13 +104,13 @@
 
 <p align="center">
   <a href="https://amrishazafreen.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-FFB6C1?style=for-the-badge&logo=vercel&logoColor=black" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/amrisha-zafreen-92403a283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E2F0CB?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FADBD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
 </p>
 
