@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://amrishazafreen.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-FFB6C1 ?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/amrisha-zafreen-92403a283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E2F0CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/zafrose3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-C7CEEA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
