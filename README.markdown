@@ -58,7 +58,7 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zafrose3&show_icons=true&bg_color=FFF2CC&title_color=000000&text_color=000000&icon_color=000000&border_radius=10)
 
 ### **🔥 GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=zafrose3&theme=default&background=FFF2CC&dates=000000&ring=000000&fire=000000&currStreakLabel=000000)
+![GitHub Streak](https://github-streak-stats.vercel.app/api?user=zafrose3&theme=light&background=FFF2CC)
 
 ### **💻 Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafrose3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f1fa8c&v=2026.1.18)
