@@ -55,16 +55,13 @@
 <div align="center">
 
 ### **📈 GitHub Stats**
-![Amrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafrose3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f1fa8c&icon_color=bd93f9&include_all_commits=true&v=2026.1.18)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zafrose3&show_icons=true&bg_color=FFB6C1&title_color=000&text_color=000&icon_color=000&border_radius=10)
 
 ### **🔥 GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zafrose3&theme=radical&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=f1fa8c)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zafrose3&theme=default&background=FFDAC1&dates=000&ring=000&fire=000&currStreakNum=000&sideNums=000)
 
 ### **💻 Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafrose3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f1fa8c&v=2026.1.18)
-
-### **🏆 GitHub Trophies**
-![Trophies](https://github-profile-trophy.vercel.app/?username=zafrose3&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
